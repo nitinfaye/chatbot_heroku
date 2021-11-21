@@ -1,5 +1,5 @@
 import requests
-url = 'http://chatbot_heroku.herokuapp.com/webhooks/rest/webhook' ##change rasablog with your app name
+url = 'http://chatbot_heroku.com/webhooks/rest/webhook' ##change rasablog with your app name
 myobj = {
 "message": "hi",
 "sender": "Nitin",
